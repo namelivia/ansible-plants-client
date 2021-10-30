@@ -1,4 +1,4 @@
-# Itemtree client Ansible role
+# Plants client Ansible role
 
 ## This is a WIP
 
