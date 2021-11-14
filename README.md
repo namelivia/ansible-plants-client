@@ -11,7 +11,7 @@ collections:
   - community.docker
 
 roles:
-  - src: https://github.com/namelivia/namelivia.plants
+  - src: https://github.com/namelivia/namelivia.plants-client
 ```
 
 ## Required variables
