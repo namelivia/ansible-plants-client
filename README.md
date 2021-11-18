@@ -11,7 +11,7 @@ collections:
   - community.docker
 
 roles:
-  - src: https://github.com/namelivia/namelivia.plants-client
+  - src: https://github.com/namelivia/ansible-plants-client
 ```
 
 ## Required variables
