@@ -1,4 +1,4 @@
-# Plants client Ansible role
+# Plants client Ansible role [![Ansible Lint](https://github.com/namelivia/ansible-plats-client/actions/workflows/ansible-lint.yml/badge.svg)](https://github.com/namelivia/ansible-plats-client/actions/workflows/ansible-lint.yml)
 
 ## This is a WIP
 
