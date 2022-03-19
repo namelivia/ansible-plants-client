@@ -27,3 +27,6 @@
       - name: "pomerium"
     env:
       VUE_APP_API_ENDPOINT: "{{ plants_api_endpoint }}"
+      VIRTUAL_HOST: "{{ domain_name }}"
+      VIRTUAL_PATH: "/"
+      VIRTUAL_PORT: "80"
