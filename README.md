@@ -16,4 +16,4 @@ roles:
 
 ## Required variables
  - `loki_url` Loki endpoint to send logs.
- - `plants_api_endpoint` API endpoint for connecting the client to the server API.
+ - `host_port` Port to be mapped in the host machine.
